@@ -176,3 +176,6 @@ docker-compose down # destroys instance
 - Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
 - Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
 
+# Note
+I just forked this repo to fix some minor issues faced by me or maybe some others. If you have any issues with this forked repo then contact me. 
+HAPPY HACKING!
