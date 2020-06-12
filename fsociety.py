@@ -210,9 +210,9 @@ class fsociety:
 
     def createFolders(self):
         if not os.path.isdir(toolDir):
-            os.system(sudo mkdir tools)
+            os.system("sudo mkdir tools")
         if not os.path.isdir(logDir):
-            os.system(sudo mkdir logs)
+            os.system("sudo mkdir logs")
 
     def completed(self):
         raw_input("Completed, click return to go back")
