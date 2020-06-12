@@ -109,7 +109,7 @@ Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
 ## Installation
 
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
-
+It's also recommended to install the [sudo](https://gitlab.com/st42/termux-sudo) function in termux for no issues and extra functionality for future use.
 ```bash
 bash <(wget -qO- https://git.io/vAtmB)
 ```
