@@ -4,4 +4,4 @@ cd fsociety
 sudo ./install.sh 
 cd $HOME
 rm main.sh
-echo "DONE! Type 'fsociety' to call the run the program."
+echo "DONE! Type 'fsociety' to run the program."
