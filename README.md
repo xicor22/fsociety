@@ -101,7 +101,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-bash <(wget -qO- https://git.io/vAtmB)
+wget https://github.com/xicor22/fsociety/blob/master/main.sh && bash main.sh
 ```
 
 Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
@@ -111,7 +111,7 @@ Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux).
 It's also recommended to install the [sudo](https://gitlab.com/st42/termux-sudo) function in termux for no issues and extra functionality for future use.
 ```bash
-bash <(wget -qO- https://git.io/vAtmB)
+wget https://github.com/xicor22/fsociety/blob/master/main.sh && bash main.sh
 ```
 
 Follow This Video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ&t=160s)
